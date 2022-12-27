@@ -16,8 +16,9 @@ Replace 25 with the desired height of the tree.
 ## Installation
 
 Clone the repository and build the project with cargo build.
-Requirements
 
-    [Rust](https://www.rust-lang.org/tools/install) 1.51 or newer
+# Requirements
+
+[Rust](https://www.rust-lang.org/tools/install) 1.51 or newer
 
 I hope this helps! Let me know if you have any other questions or need further assistance.
